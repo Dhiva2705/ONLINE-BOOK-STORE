@@ -1,1 +1,2 @@
-# ONLINE-BOOK-STORE
+This code implements an Online Book Store application using Java Swing, allowing users to browse books, view genres, manage a cart, and purchase items. The interface consists of a sidebar for navigation (Explore, Categories, Cart, Purchase) and a main content area displaying books or categories dynamically based on user interaction. Books are categorized into genres like Fiction, Non-Fiction, Science, Technology, and History, stored in a HashMap. Users can add books to their cart, search for specific titles, and view purchased items with a breakdown of the total cost. The Book class encapsulates book details like name and price, ensuring an organized structure for book management.
+
